@@ -4,21 +4,21 @@
  * @return {number}
  */
 var search = function (arr, target) {
-   function getPivot(arr) {
-  let s = 0;
-  let e = arr.length - 1;
-  let mid;
-  let firstIndex = arr[0];
-  while (s < e) {
-    mid = Math.floor((s + e) / 2);
-    if (arr[mid] >= firstIndex) {
-      s = mid + 1;
-    } else {
-      e = mid ;
+    function getPivot(arr) {
+        let s = 0;
+        let e = arr.length - 1;
+        let mid;
+        let firstIndex = arr[0];
+        while (s < e) {
+            mid = Math.floor((s + e) / 2);
+            if (arr[mid] >= firstIndex) {
+                s = mid + 1;
+            } else {
+                e = mid;
+            }
+        }
+        return s;
     }
-  }
-  return s;
-}
 
     function binarySearch(arr, start, end, target) {
         let s = start;
@@ -26,7 +26,7 @@ var search = function (arr, target) {
         let mid;
         while (s <= e) {
             mid = Math.floor((s + e) / 2);
-            if (arr[mid] == target) {
+            if (arr[mid] === target) {
                 return mid;
             } else if (target > arr[mid]) {
                 s = mid + 1;
@@ -46,4 +46,6 @@ var search = function (arr, target) {
         }
     }
     return findElementInRotatedArr(arr, target);
-    };
+};
+
+
