@@ -21,6 +21,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1392-find-the-difference-of-two-arrays) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0069-sqrtx](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0069-sqrtx) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Math
 |  |
 | ------- |
