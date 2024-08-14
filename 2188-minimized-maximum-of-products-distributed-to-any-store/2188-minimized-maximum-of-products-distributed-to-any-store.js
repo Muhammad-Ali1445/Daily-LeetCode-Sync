@@ -3,7 +3,6 @@
  * @param {number[]} quantities
  * @return {number}
  */
-
 function isPossibleSol(quantities, mid, stores) {
     let storeCount = 0;
     for (let i = 0; i < quantities.length; i++) {
@@ -14,15 +13,14 @@ function isPossibleSol(quantities, mid, stores) {
     }
     return true;
 }
-var minimizedMaximum = function (stores, quantities) {
 
+var minimizedMaximum = function (stores, quantities) {
     let s = 1;
-    let mid;
-    let ans;
-    let totalSum = quantities.reduce((acc, curr) => acc + curr, 0);
-    let e = totalSum;
+    let e = Math.max(...quantities);
+    let ans = e;
+
     while (s <= e) {
-        mid = Math.floor((s + e) / 2);
+        let mid = Math.floor((s + e) / 2);
         if (isPossibleSol(quantities, mid, stores)) {
             ans = mid;
             e = mid - 1;
@@ -30,5 +28,6 @@ var minimizedMaximum = function (stores, quantities) {
             s = mid + 1;
         }
     }
-    return ans;
+    return ans; 
 };
+
