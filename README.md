@@ -22,6 +22,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1675-magnetic-force-between-two-balls) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Two Pointers
 |  |
@@ -33,6 +34,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0075-sort-colors) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1675-magnetic-force-between-two-balls) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,6 +44,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1675-magnetic-force-between-two-balls) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Math
 |  |
