@@ -19,6 +19,7 @@
 | [0075-sort-colors](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0075-sort-colors) |
 | [0724-find-pivot-index](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0724-find-pivot-index) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0890-lemonade-change](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0890-lemonade-change) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0724-find-pivot-index) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
