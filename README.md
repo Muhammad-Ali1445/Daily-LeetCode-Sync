@@ -51,6 +51,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0069-sqrtx) |
 ## Prefix Sum
 |  |
