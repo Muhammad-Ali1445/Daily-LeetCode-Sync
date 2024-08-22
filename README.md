@@ -65,4 +65,8 @@
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0890-lemonade-change) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
