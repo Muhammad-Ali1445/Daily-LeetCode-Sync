@@ -12,6 +12,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0205-isomorphic-strings) |
+| [0592-fraction-addition-and-subtraction](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0592-fraction-addition-and-subtraction) |
 ## Array
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0009-palindrome-number](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0069-sqrtx) |
+| [0592-fraction-addition-and-subtraction](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0592-fraction-addition-and-subtraction) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -69,4 +71,8 @@
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0476-number-complement) |
+## Simulation
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0592-fraction-addition-and-subtraction) |
 <!---LeetCode Topics End-->
