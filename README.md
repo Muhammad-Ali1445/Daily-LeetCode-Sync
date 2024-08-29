@@ -28,6 +28,7 @@
 | [0890-lemonade-change](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0958-sort-array-by-parity-ii) |
+| [1018-largest-perimeter-triangle](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1018-largest-perimeter-triangle) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1137-height-checker](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1137-height-checker) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -49,6 +50,7 @@
 | [0075-sort-colors](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0075-sort-colors) |
 | [0948-sort-an-array](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0958-sort-array-by-parity-ii) |
+| [1018-largest-perimeter-triangle](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1018-largest-perimeter-triangle) |
 | [1137-height-checker](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1675-magnetic-force-between-two-balls) |
@@ -70,6 +72,7 @@
 | [0013-roman-to-integer](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0069-sqrtx) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0592-fraction-addition-and-subtraction) |
+| [1018-largest-perimeter-triangle](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1018-largest-perimeter-triangle) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -80,6 +83,7 @@
 | [0011-container-with-most-water](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0011-container-with-most-water) |
 | [0624-maximum-distance-in-arrays](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0890-lemonade-change) |
+| [1018-largest-perimeter-triangle](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1018-largest-perimeter-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
