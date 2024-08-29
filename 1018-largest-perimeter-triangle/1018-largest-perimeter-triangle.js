@@ -5,7 +5,7 @@
 var largestPerimeter = function (arr) {
 
  arr.sort((a, b) => b - a);
-  for (let i = 0; i < arr.length; i++) {
+  for (let i = 0; i < arr.length-2; i++) {
     if (arr[i] < arr[i + 1] + arr[i + 2]) {
       return arr[i] + arr[i + 1] + arr[i + 2];
     }
