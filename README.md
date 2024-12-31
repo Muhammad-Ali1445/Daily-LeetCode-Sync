@@ -38,6 +38,7 @@
 | [1137-height-checker](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1137-height-checker) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1603-running-sum-of-1d-array](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1675-magnetic-force-between-two-balls) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0724-find-pivot-index) |
+| [1603-running-sum-of-1d-array](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1603-running-sum-of-1d-array) |
 ## Greedy
 |  |
 | ------- |
