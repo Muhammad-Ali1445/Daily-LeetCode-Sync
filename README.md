@@ -16,6 +16,7 @@
 | [0013-roman-to-integer](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0205-isomorphic-strings) |
+| [0412-fizz-buzz](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0412-fizz-buzz) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0592-fraction-addition-and-subtraction) |
 | [0782-jewels-and-stones](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0782-jewels-and-stones) |
 ## Array
@@ -85,6 +86,7 @@
 | [0009-palindrome-number](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0069-sqrtx) |
+| [0412-fizz-buzz](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0412-fizz-buzz) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0592-fraction-addition-and-subtraction) |
 | [1018-largest-perimeter-triangle](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1018-largest-perimeter-triangle) |
 ## Prefix Sum
@@ -107,6 +109,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0412-fizz-buzz) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0592-fraction-addition-and-subtraction) |
 ## Divide and Conquer
 |  |
