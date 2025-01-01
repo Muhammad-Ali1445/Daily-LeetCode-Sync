@@ -34,6 +34,7 @@
 | [0948-sort-an-array](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1018-largest-perimeter-triangle) |
+| [1019-squares-of-a-sorted-array](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1137-height-checker](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1137-height-checker) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -52,6 +53,7 @@
 | [0027-remove-element](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0075-sort-colors) |
 | [0958-sort-array-by-parity-ii](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0958-sort-array-by-parity-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 | [0948-sort-an-array](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1018-largest-perimeter-triangle) |
+| [1019-squares-of-a-sorted-array](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1675-magnetic-force-between-two-balls) |
