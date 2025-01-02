@@ -16,6 +16,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0345-reverse-vowels-of-a-string) |
@@ -58,6 +59,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0345-reverse-vowels-of-a-string) |
 | [0958-sort-array-by-parity-ii](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1019-squares-of-a-sorted-array) |
