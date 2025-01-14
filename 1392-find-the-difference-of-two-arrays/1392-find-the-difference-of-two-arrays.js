@@ -3,12 +3,12 @@
  * @param {number[]} arr2
  * @return {number[][]}
  */
-var findDifference = function(arr1, arr2) {
- let set1 = new Set(arr1);
- let set2 = new Set(arr2);
+ var findDifference = function(num1, num2) {
+ let set1 = new Set(num1);
+ let set2 = new Set(num2);
 
- arr1 = [...new Set(arr1.filter((item) => !set2.has(item)))];
- arr2 = [...new Set(arr2.filter((item) => !set1.has(item)))];
+ num1 = [...set1].filter((num) => !set2.has(num));
+ num2 = [...set2].filter((num) => !set1.has(num));
 
- return [arr1, arr2];
+ return [num1, num2];
 };
