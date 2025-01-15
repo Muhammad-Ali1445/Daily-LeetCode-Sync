@@ -10,6 +10,7 @@
 | [0217-contains-duplicate](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0782-jewels-and-stones) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -42,6 +43,7 @@
 | [0217-contains-duplicate](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0624-maximum-distance-in-arrays) |
 | [0724-find-pivot-index](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0724-find-pivot-index) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -110,6 +112,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1833-find-the-highest-altitude) |
