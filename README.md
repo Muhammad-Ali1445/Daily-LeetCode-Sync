@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0242-valid-anagram) |
@@ -40,6 +41,7 @@
 | [0056-merge-intervals](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0496-next-greater-element-i) |
@@ -173,4 +175,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
