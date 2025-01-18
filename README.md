@@ -27,6 +27,7 @@
 | [0412-fizz-buzz](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0412-fizz-buzz) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0592-fraction-addition-and-subtraction) |
 | [0782-jewels-and-stones](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0782-jewels-and-stones) |
+| [1894-merge-strings-alternately](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0345-reverse-vowels-of-a-string) |
 | [0958-sort-array-by-parity-ii](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1019-squares-of-a-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
