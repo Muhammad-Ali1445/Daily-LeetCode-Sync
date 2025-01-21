@@ -25,6 +25,7 @@
 | [0125-valid-palindrome](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0412-fizz-buzz) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0592-fraction-addition-and-subtraction) |
@@ -77,6 +78,7 @@
 | [0027-remove-element](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0345-reverse-vowels-of-a-string) |
 | [0958-sort-array-by-parity-ii](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1019-squares-of-a-sorted-array) |
