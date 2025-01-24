@@ -2,25 +2,20 @@
  * @param {string} s
  * @return {boolean}
  */
-var isValid = function(s) {
-    const mapping = {
-        ')': '(',
-        '}': '{',
-        ']': '['
-    };
-
-    const stack = [];
-
-    for (let char of s) {
-        if (mapping[char]) {
-            const topElement = stack.length ? stack.pop() : '#';
-            if (topElement !== mapping[char]) {
-                return false;
-            }
-        } else {
-            stack.push(char);
-        }
+var isValid = function(str) {
+      let stack = [];
+  for (let char of str) {
+    if (char == "(") {
+      stack.push(")");
+    } else if (char == "[") {
+      stack.push("]");
+    } else if (char =="{") {
+      stack.push("}");
+    } else {
+      if (stack.length === 0 || char != stack.pop()) {
+        return false;
+      }
     }
-
-    return stack.length === 0;
+  }
+  return stack.length === 0;
 };
