@@ -177,6 +177,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -195,4 +196,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0003-longest-substring-without-repeating-characters) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
