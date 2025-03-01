@@ -217,4 +217,12 @@
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
