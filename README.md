@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0242-valid-anagram) |
@@ -83,6 +84,7 @@
 | [0027-remove-element](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0345-reverse-vowels-of-a-string) |
 | [0958-sort-array-by-parity-ii](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0958-sort-array-by-parity-ii) |
@@ -221,6 +223,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
