@@ -9,6 +9,8 @@
  * @param {ListNode} head
  * @return {ListNode}
  */
+
+ // ------- Iteratively --------
 var reverseList = function (head) {
     let prev = null;
     let curr = head
@@ -20,3 +22,12 @@ var reverseList = function (head) {
     }
     return prev
 };
+
+// --------- Recursively -----------
+
+// var reverseList = function (head,prev=null) {
+//    if(head===null) return prev
+//    let next=head.next
+//    head.next=prev
+//    return reverseList(next,head)
+// };
