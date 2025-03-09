@@ -13,6 +13,7 @@
 | [0205-isomorphic-strings](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0782-jewels-and-stones) |
@@ -54,6 +55,7 @@
 | [0162-find-peak-element](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0624-maximum-distance-in-arrays) |
@@ -102,6 +104,7 @@
 | [0075-sort-colors](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1018-largest-perimeter-triangle) |
@@ -117,6 +120,7 @@
 | [0035-search-insert-position](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -131,6 +135,7 @@
 | [0013-roman-to-integer](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0412-fizz-buzz) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0592-fraction-addition-and-subtraction) |
 | [1018-largest-perimeter-triangle](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1018-largest-perimeter-triangle) |
@@ -152,6 +157,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0476-number-complement) |
 ## Simulation
 |  |
