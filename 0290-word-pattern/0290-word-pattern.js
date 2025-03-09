@@ -3,36 +3,35 @@
  * @param {string} s
  * @return {boolean}
  */
-var wordPattern = function (s,t) {
+var wordPattern = function (pattern, s) {
+    
+    s = s.split(" ");
 
-     t=t.split(" ")
-    if (s.length !== t.length) {
+    if (pattern.length !== s.length) {
         return false;
     }
 
+    let map_patt_to_s = {};
+    let map_s_to_patt = {};
 
-
-    let map_s_to_t = {};
-    let map_t_to_s = {};
-
-    for (let i = 0; i < s.length; i++) {
+    for (let i = 0; i < pattern.length; i++) {
+        let patt_char = pattern[i];
         let s_char = s[i];
-        let t_char = t[i];
 
-        if (map_s_to_t.hasOwnProperty(s_char)) {
-            if (map_s_to_t[s_char] !== t_char) {
+        if (map_patt_to_s.hasOwnProperty(patt_char)) {
+            if (map_patt_to_s[patt_char] !== s_char) {
                 return false;
             }
         } else {
-            map_s_to_t[s_char] = t_char;
+            map_patt_to_s[patt_char] = s_char;
         }
 
-        if (map_t_to_s.hasOwnProperty(t_char)) {
-            if (map_t_to_s[t_char] !== s_char) {
+        if (map_s_to_patt.hasOwnProperty(s_char)) {
+            if (map_s_to_patt[s_char] !== patt_char) {
                 return false;
             }
         } else {
-            map_t_to_s[t_char] = s_char;
+            map_s_to_patt[s_char] = patt_char;
         }
     }
     return true;
