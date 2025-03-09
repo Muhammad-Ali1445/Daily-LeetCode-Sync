@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0242-valid-anagram) |
@@ -85,6 +86,7 @@
 | [0075-sort-colors](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0345-reverse-vowels-of-a-string) |
@@ -128,6 +130,7 @@
 | [0009-palindrome-number](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0412-fizz-buzz) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0592-fraction-addition-and-subtraction) |
 | [1018-largest-perimeter-triangle](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1018-largest-perimeter-triangle) |
