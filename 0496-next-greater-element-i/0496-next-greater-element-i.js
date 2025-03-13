@@ -3,18 +3,15 @@
  * @param {number[]} nums2
  * @return {number[]}
  */
-var nextGreaterElement = function (arr1, arr2) {
-    let newArr = [];
-    for (let i = 0; i < arr1.length; i++) {
-        let found = -1;
-        for (let j = 0; j < arr2.length; j++) {
-            if (arr1[i] == arr2[j]) {
-                found = arr2.slice(j + 1).find((element) => element > arr2[j]);
-                newArr.push(found !== undefined ? found : -1);
-                break;
-            }
-        }
-    }
+var nextGreaterElement = function (nums1, nums2) {
+    let map = new Map();
+  let stack = [];
 
-    return newArr;
+  for (let num of nums2) {
+    while (stack.length > 0 && stack[stack.length - 1] < num) {
+      map.set(stack.pop(), num);
+    }
+    stack.push(num);
+  }
+  return nums1.map((num) => map.get(num) ?? -1);
 };
