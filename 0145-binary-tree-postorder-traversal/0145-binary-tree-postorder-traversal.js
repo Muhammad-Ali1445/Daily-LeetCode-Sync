@@ -15,21 +15,21 @@ var postorderTraversal = function (root) {
     // ---- Iterative approach ----
 
     if (root === null) return [];
-  const result = [];
-  const stack = [root];
-  while (stack.length !== 0) {
-    const curr = stack.pop();
-    result.push(curr.val);
+    const result = [];
+    const stack = [root];
+    while (stack.length !== 0) {
+        const curr = stack.pop();
+        result.push(curr.val);
 
-    if (curr.left) stack.push(curr.left);
-    if (curr.right) stack.push(curr.right);
-  }
-  return result.reverse();
+        if (curr.left) stack.push(curr.left);
+        if (curr.right) stack.push(curr.right);
+    }
+    return result.reverse();
 
     // ---- Recursive approach -----
 
-    if (root === null) return [];
-    const leftValues = postorderTraversal(root.left);
-    const rightValues = postorderTraversal(root.right);
-    return [...leftValues, ...rightValues, root.val]
+    // if (root === null) return [];
+    // const leftValues = postorderTraversal(root.left);
+    // const rightValues = postorderTraversal(root.right);
+    // return [...leftValues, ...rightValues, root.val]
 };
