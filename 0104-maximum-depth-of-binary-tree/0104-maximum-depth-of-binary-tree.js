@@ -12,19 +12,17 @@
  */
 var maxDepth = function (root) {
     if (!root) return 0;
-    const result = [];
     const queue = [root];
+    let depth = 0;
     while (queue.length > 0) {
         let queueSize = queue.length;
-        let currLevel = [];
+
         for (let i = 0; i < queueSize; i++) {
             let curr = queue.shift();
-            currLevel.push(curr.val);
             if (curr.left) queue.push(curr.left);
             if (curr.right) queue.push(curr.right);
         }
-        result.push(currLevel);
+        depth++;
     }
-
-    return result.length;
+    return depth;
 };
