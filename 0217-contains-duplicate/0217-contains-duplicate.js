@@ -2,13 +2,13 @@
  * @param {number[]} nums
  * @return {boolean}
  */
-var containsDuplicate = function(arr) {
-  let numbers = new Set();
-  for (let i = 0; i < arr.length; i++) {
-    if (numbers.has(arr[i])) {
-      return true;
+var containsDuplicate = function (nums) {
+    let numbers = new Set()
+    for (let i = 0; i < nums.length; i++) {
+        if (numbers.has(nums[i])) {
+            return true
+        }
+        numbers.add(nums[i])
     }
-    numbers.add(arr[i]);
-  }
-  return false;
+    return false
 };
