@@ -2,14 +2,12 @@
  * @param {number[]} nums
  * @return {number}
  */
-var maxSubArray = function (arr) {
-    let maxSum = -Infinity;
-    // let newArr = [];
+var maxSubArray = function (nums) {
+    let maxSum = nums[0];
     let currSum = 0;
-    for (let i = 0; i < arr.length; i++) {
-        currSum += arr[i];
+    for (let value of nums) {
+        currSum += value;
         if (currSum > maxSum) {
-            // newArr.push(arr[i]);
             maxSum = currSum;
         }
 
@@ -17,6 +15,5 @@ var maxSubArray = function (arr) {
             currSum = 0;
         }
     }
-    //   return {newArr,maxSum};
     return maxSum;
 };
