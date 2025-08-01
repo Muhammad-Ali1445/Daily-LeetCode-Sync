@@ -2,14 +2,12 @@
  * @param {number[]} gain
  * @return {number}
  */
-var largestAltitude = function (gainArr) {
+var largestAltitude = function (gain) {
     let sum = 0;
     let max = 0;
-    for (let i = 0; i < gainArr.length; i++) {
-        sum += gainArr[i];
-        if (sum > max) {
-            max = sum;
-        }
+    for (let i = 0; i < gain.length; i++) {
+        sum += gain[i]
+        if (sum > max) { max = sum }
     }
-    return max;
+    return max
 };
