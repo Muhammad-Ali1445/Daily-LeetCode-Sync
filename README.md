@@ -37,6 +37,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0592-fraction-addition-and-subtraction) |
 | [0782-jewels-and-stones](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0782-jewels-and-stones) |
 | [1894-merge-strings-alternately](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1894-merge-strings-alternately) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Array
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1675-magnetic-force-between-two-balls) |
 | [1833-find-the-highest-altitude](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1833-find-the-highest-altitude) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Two Pointers
 |  |
@@ -166,6 +168,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0412-fizz-buzz) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0592-fraction-addition-and-subtraction) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
