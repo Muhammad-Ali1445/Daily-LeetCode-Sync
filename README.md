@@ -20,6 +20,7 @@
 | [0782-jewels-and-stones](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0782-jewels-and-stones) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1635-number-of-good-pairs](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1635-number-of-good-pairs](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1635-number-of-good-pairs) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1675-magnetic-force-between-two-balls) |
 | [1833-find-the-highest-altitude](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/2058-concatenation-of-array) |
@@ -144,6 +146,7 @@
 | [0412-fizz-buzz](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0412-fizz-buzz) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0592-fraction-addition-and-subtraction) |
 | [1018-largest-perimeter-triangle](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1018-largest-perimeter-triangle) |
+| [1635-number-of-good-pairs](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1635-number-of-good-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -198,6 +201,7 @@
 | [0948-sort-an-array](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1635-number-of-good-pairs](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1635-number-of-good-pairs) |
 ## Stack
 |  |
 | ------- |
