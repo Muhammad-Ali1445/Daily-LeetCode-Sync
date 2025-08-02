@@ -60,6 +60,7 @@
 | [0217-contains-duplicate](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0624-maximum-distance-in-arrays) |
@@ -98,6 +99,7 @@
 | [0141-linked-list-cycle](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0345-reverse-vowels-of-a-string) |
 | [0958-sort-array-by-parity-ii](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0958-sort-array-by-parity-ii) |
