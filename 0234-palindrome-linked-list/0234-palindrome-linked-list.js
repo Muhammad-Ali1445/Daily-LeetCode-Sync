@@ -11,29 +11,33 @@
  */
 var isPalindrome = function (head) {
 
+    // reverse Logic
     const reverseLinkedList = (head, prev = null) => {
-        if (head === null) return prev;
-        const next = head.next;
+        if (head == null) return prev;
+        let next = head.next;
         head.next = prev;
         return reverseLinkedList(next, head);
     };
 
+    // Edge Cases
+    if (!head || !head.next) {
+        return true;
+    }
 
-    // Edge Case
-    if (!head || !head.next) return true;
     let slow = head;
     let fast = head;
-    
-    // finding Middle Point of LinkedList
-    while (fast !== null && fast.next !== null) {
+
+    // Finding the Middle point
+    while (fast != null && fast.next != null) {
         slow = slow.next;
         fast = fast.next.next;
     }
 
     let firstHalf = head; // First List
-    let secondHalf = reverseLinkedList(slow); // Second List
+    let secondHalf = reverseLinkedList(slow); //second List
 
-    while (secondHalf !== null) {
+    //Comparing the values 
+    while (secondHalf != null) {
         if (firstHalf.val !== secondHalf.val) {
             return false;
         }
