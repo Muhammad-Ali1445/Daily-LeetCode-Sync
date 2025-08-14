@@ -9,13 +9,22 @@
  * @param {ListNode} head
  * @return {number}
  */
-var getDecimalValue = function(head) {
-    let curr=head
-    let binary=""
-    while(curr){
-        binary+=curr.val
-        curr=curr.next
-    
+var getDecimalValue = function (head) {
+    let curr = head
+    let binary = ""
+    while (curr) {
+        binary += curr.val
+        curr = curr.next
     }
-    return parseInt(binary,2)
+    return parseInt(binary, 2)
 };
+
+// Second method 
+
+// let num = 0
+// let curr = head
+// while (curr) {
+// num = (num << 1) | curr.val
+// curr=curr.next
+// }
+// return num
