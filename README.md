@@ -152,6 +152,7 @@
 | [0412-fizz-buzz](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0412-fizz-buzz) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0592-fraction-addition-and-subtraction) |
 | [1018-largest-perimeter-triangle](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1018-largest-perimeter-triangle) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1635-number-of-good-pairs) |
 ## Prefix Sum
 |  |
@@ -261,6 +262,7 @@
 | [0206-reverse-linked-list](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
