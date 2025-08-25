@@ -19,6 +19,7 @@
 | [0496-next-greater-element-i](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0782-jewels-and-stones) |
+| [0816-design-hashset](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0817-design-hashmap) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -68,6 +69,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0624-maximum-distance-in-arrays) |
 | [0724-find-pivot-index](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0817-design-hashmap) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0890-lemonade-change) |
@@ -246,6 +248,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0232-implement-queue-using-stacks) |
+| [0816-design-hashset](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0817-design-hashmap) |
 ## Queue
 |  |
@@ -266,6 +269,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0234-palindrome-linked-list) |
+| [0816-design-hashset](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -323,5 +327,6 @@
 ## Hash Function
 |  |
 | ------- |
+| [0816-design-hashset](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
