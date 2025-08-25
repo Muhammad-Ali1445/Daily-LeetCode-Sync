@@ -1,6 +1,5 @@
-
 var MyHashMap = function () {
-    this.map = new Array(10000001).fill(-1)
+    this.map = new Array(1000001).fill(-1)
 };
 
 /** 
