@@ -110,6 +110,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1894-merge-strings-alternately) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -222,6 +223,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0496-next-greater-element-i) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -267,6 +269,7 @@
 | [0817-design-hashmap](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
