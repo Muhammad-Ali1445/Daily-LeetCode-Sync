@@ -83,6 +83,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1580-shuffle-the-array) |
+| [1582-design-browser-history](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1635-number-of-good-pairs) |
@@ -225,6 +226,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0496-next-greater-element-i) |
+| [1582-design-browser-history](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -250,6 +252,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0232-implement-queue-using-stacks) |
 | [0816-design-hashset](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0817-design-hashmap) |
+| [1582-design-browser-history](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1582-design-browser-history) |
 ## Queue
 |  |
 | ------- |
@@ -273,6 +276,7 @@
 | [0817-design-hashmap](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1582-design-browser-history](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -329,4 +333,12 @@
 | ------- |
 | [0816-design-hashset](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0817-design-hashmap) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
