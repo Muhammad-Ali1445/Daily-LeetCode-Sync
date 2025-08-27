@@ -64,6 +64,7 @@
 | [0238-product-of-array-except-self](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0624-maximum-distance-in-arrays) |
@@ -164,6 +165,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1603-running-sum-of-1d-array) |
@@ -250,6 +252,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0303-range-sum-query-immutable) |
 | [0816-design-hashset](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/0817-design-hashmap) |
 | [1582-design-browser-history](https://github.com/Muhammad-Ali1445/Daily-LeetCode-Sync/tree/master/1582-design-browser-history) |
